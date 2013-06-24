@@ -1,0 +1,25 @@
+{
+  "name": "mheinzerling/jsonutils",
+  "description": "JSON utilities",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Martin Heinzerling",
+      "email": "webmaster@mheinzerling.de"
+    }
+  ],
+  "require": {
+    "seld/jsonlint": "1.2.*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.2.*"
+  },
+  "autoload": {
+    "psr-0": {
+      "mheinzerling": [
+        "src/"
+      ]
+    }
+  }
+}
