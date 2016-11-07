@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6d68c3fb0fe3c16db45fc79c19a6d215",
-    "content-hash": "2ea9c45fd6313a961f0c6c6db487b99c",
+    "hash": "ea5136f6689171a5594e44a62dbee145",
+    "content-hash": "9b3c4385a02203ea8b8097bcd937365e",
     "packages": [
         {
             "name": "seld/jsonlint",
@@ -2129,7 +2129,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=7.0.0"
+        "php": "^7.0.0"
     },
     "platform-dev": []
 }

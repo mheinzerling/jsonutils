@@ -6,7 +6,7 @@ Some json utilities.
 
 ##Composer
     "require": {
-        "mheinzerling/jsonutils": "2.0.*"
+        "mheinzerling/jsonutils": "^2.0.1"
     },
     
 ##Method
