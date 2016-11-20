@@ -18,8 +18,8 @@
     "codeclimate/php-test-reporter": "dev-master"
   },
   "autoload": {
-    "psr-0": {
-      "mheinzerling": [
+    "psr-4": {
+      "mheinzerling\\commons\\": [
         "src/"
       ]
     }
