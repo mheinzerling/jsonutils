@@ -6,7 +6,7 @@ Some json utilities.
 
 ##Composer
     "require": {
-        "mheinzerling/jsonutils": "^2.0.1"
+        "mheinzerling/jsonutils": "^3.0.0"
     },
     
 ##Method
@@ -14,8 +14,12 @@ Some json utilities.
 
 ##Changelog
 
+### 3.0.0
+* update to PHP 7.1, jsonlint 1.5
+* support methods for validating JSON files
+
 ### 2.0.0
-update to PHP 7, jsonlint 1.4
+* update to PHP 7, jsonlint 1.4
 
 ### 1.0.0
-initial version 
+* initial version 
